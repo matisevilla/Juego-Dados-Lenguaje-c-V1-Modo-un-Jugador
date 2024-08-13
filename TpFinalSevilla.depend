@@ -1,0 +1,170 @@
+# depslib dependency file v1.0
+1699012023 source:c:\users\alumno\desktop\archivos codeblocks\tpfinalzanino-sevilla\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"funcionglobal.h"
+	"funcionMostrarMenu.h"
+	"funcionesPuntaje.h"
+	"terminarJuego.h"
+	"dados.h"
+
+1699011906 c:\users\alumno\desktop\archivos codeblocks\tpfinalzanino-sevilla\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1699023622 c:\users\alumno\desktop\archivos codeblocks\tpfinalzanino-sevilla\funcionglobal.h
+	"funcionMostrarMenu.h"
+	"funcionesPuntaje.h"
+	"terminarJuego.h"
+	"dados.h"
+
+1699011929 c:\users\alumno\desktop\archivos codeblocks\tpfinalzanino-sevilla\funcionmostrarmenu.h
+	"rlutil.h"
+
+1699023795 c:\users\alumno\desktop\archivos codeblocks\tpfinalzanino-sevilla\funcionespuntaje.h
+	<iostream>
+	"dados.h"
+	"mostrarDados.h"
+
+1699011929 c:\users\alumno\desktop\archivos codeblocks\tpfinalzanino-sevilla\dados.h
+	"rlutil.h"
+
+1699011929 c:\users\alumno\desktop\archivos codeblocks\tpfinalzanino-sevilla\terminarjuego.h
+
+1699015248 c:\users\alumno\desktop\archivos codeblocks\tpfinalzanino-sevilla\mostrardados.h
+
+1700221274 source:c:\users\alumno\desktop\archivos codeblocks\tp zanino\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"mostrarDados.h"
+	"funcionglobal.h"
+	"funcionMostrarMenu.h"
+	"funcionesPuntaje.h"
+	"terminarJuego.h"
+
+1700220772 c:\users\alumno\desktop\archivos codeblocks\tp zanino\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1700220772 c:\users\alumno\desktop\archivos codeblocks\tp zanino\mostrardados.h
+
+1700231274 c:\users\alumno\desktop\archivos codeblocks\tp zanino\funcionglobal.h
+	"funcionMostrarMenu.h"
+	"funcionesPuntaje.h"
+	"terminarJuego.h"
+
+1700220772 c:\users\alumno\desktop\archivos codeblocks\tp zanino\funcionmostrarmenu.h
+	"rlutil.h"
+
+1700229743 c:\users\alumno\desktop\archivos codeblocks\tp zanino\funcionespuntaje.h
+
+1700220772 c:\users\alumno\desktop\archivos codeblocks\tp zanino\terminarjuego.h
+
+1700228091 c:\users\alumno\desktop\archivos codeblocks\tp zanino\mostrar_interfaz.h
+
+1700221274 source:c:\users\matis\onedrive\escritorio\tp zanino\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"mostrarDados.h"
+	"funcionglobal.h"
+	"funcionMostrarMenu.h"
+	"funcionesPuntaje.h"
+	"terminarJuego.h"
+
+1700220772 c:\users\matis\onedrive\escritorio\tp zanino\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1700220772 c:\users\matis\onedrive\escritorio\tp zanino\mostrardados.h
+
+1700231274 c:\users\matis\onedrive\escritorio\tp zanino\funcionglobal.h
+	"funcionMostrarMenu.h"
+	"funcionesPuntaje.h"
+	"terminarJuego.h"
+
+1700220772 c:\users\matis\onedrive\escritorio\tp zanino\funcionmostrarmenu.h
+	"rlutil.h"
+
+1700229743 c:\users\matis\onedrive\escritorio\tp zanino\funcionespuntaje.h
+
+1700220772 c:\users\matis\onedrive\escritorio\tp zanino\terminarjuego.h
+
+1719415866 source:c:\users\matis\onedrive\escritorio\tp final sevilla\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"mostrarDados.h"
+	"funcionglobal.h"
+	"funcionMostrarMenu.h"
+	"funcionesPuntaje.h"
+	"terminarJuego.h"
+
+1700220772 c:\users\matis\onedrive\escritorio\tp final sevilla\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1700220772 c:\users\matis\onedrive\escritorio\tp final sevilla\mostrardados.h
+
+1719415866 c:\users\matis\onedrive\escritorio\tp final sevilla\funcionglobal.h
+	"funcionMostrarMenu.h"
+	"funcionesPuntaje.h"
+	"terminarJuego.h"
+
+1700220772 c:\users\matis\onedrive\escritorio\tp final sevilla\funcionmostrarmenu.h
+	"rlutil.h"
+
+1700229743 c:\users\matis\onedrive\escritorio\tp final sevilla\funcionespuntaje.h
+
+1700220772 c:\users\matis\onedrive\escritorio\tp final sevilla\terminarjuego.h
+
